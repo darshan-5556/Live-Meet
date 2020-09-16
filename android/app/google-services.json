@@ -1,0 +1,41 @@
+{
+    "project_info": {
+        "project_number": "896310057861",
+        "firebase_url": "https://live-meet-6ffd5.firebaseio.com",
+        "project_id": "live-meet-6ffd5",
+        "storage_bucket": "live-meet-6ffd5.appspot.com"
+    },
+    "client": [{
+        "client_info": {
+            "mobilesdk_app_id": "1:896310057861:android:317ab651e25a3820f002ec",
+            "android_client_info": {
+                "package_name": "dc.industries.livemeet"
+            }
+        },
+        "oauth_client": [{
+                "client_id": "896310057861-s7cohd6jn3a48lps4v0efbrvmkn3lni1.apps.googleusercontent.com",
+                "client_type": 1,
+                "android_info": {
+                    "package_name": "dc.industries.livemeet",
+                    "certificate_hash": "f40c550cf930df1f32d29dc49f24d68d028f2532"
+                }
+            },
+            {
+                "client_id": "896310057861-5q27apdkrk6h99p32koo4rh89s4ocfla.apps.googleusercontent.com",
+                "client_type": 3
+            }
+        ],
+        "api_key": [{
+            "current_key": "AIzaSyCrxLh7OMzC0XcudXWodNYLtvF13iM-4-Y"
+        }],
+        "services": {
+            "appinvite_service": {
+                "other_platform_oauth_client": [{
+                    "client_id": "896310057861-5q27apdkrk6h99p32koo4rh89s4ocfla.apps.googleusercontent.com",
+                    "client_type": 3
+                }]
+            }
+        }
+    }],
+    "configuration_version": "1"
+}
